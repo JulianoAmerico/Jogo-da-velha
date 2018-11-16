@@ -1,3 +1,6 @@
+# Description
+Jogo da velha via console.
+
 # Jogo da velha
 Jogo da velha que pode ser jogado por dois jogadores via Console. Cada jogador possui uma pontuação registrado no arquivo.
 
