@@ -2,9 +2,8 @@
 Jogo da velha que pode ser jogado por dois jogadores via Console. Cada jogador possui uma pontuação registrado no arquivo.
 
 # Como executar?
-1. Faça o download da pasta JogoDaVelha, e salve-o no diretório C:\\.
-2. Descompacte-o.
-3. Abra o arquivo JogoDaVelha e clique no arquivo execute.bat e o jogo é executado no DOS.
+1. Faça o download dos arquivos JogoDaVelha.jar e execute.bat, e salve-os dentro da pasta JogoDaVelha no diretório C:\\.
+2. Abra o arquivo JogoDaVelha e clique no arquivo execute.bat e o jogo é executado no DOS.
 
 # Como jogar?
 1. Insira os nomes dos jogadores, após inserir um nome e dê enter, é solicitado o nome do segundo jogador.
